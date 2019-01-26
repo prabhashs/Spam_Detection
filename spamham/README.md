@@ -1,12 +1,12 @@
-# SpamHam
-SpamHam is a text-classification app which detects whether the message/email is spam or not. I've used Naive-Bayes along with NLP (TF-IDF, Bag of Words and more). <br>
-In order to perform an experiment I've combined two datasets (Enron email spam/ham and SMS spam classification) into one to gather more data. [See this notebook](https://github.com/aditya98ak/spam-ham-web-app/blob/master/machine_learning_section/SpamHam.ipynb) to get what I am saying.
+# Spam Detection
+Spam Detection is a text-classifier app which detects whether the message/email is spam or not. I've used Naive-Bayes along with NLP (TF-IDF, Bag of Words and more). <br>
+In order to perform an experiment I've combined two datasets (Enron email spam/ham and SMS spam classification) into one to gather more data. [See this notebook](https://github.com/prabhashs/Spam_Detection/blob/master/machine_learning_section/SpamHam.ipynb) to get what I am saying.
 <br>
 To check out this project in action I've deployed it on heroku
 [Click on this link to check](https://spamham.herokuapp.com)
 
 
-### Built With
+## Technologies used:-
 
 1. Django 2.1
 2. Python 3.6
@@ -20,7 +20,7 @@ To check out this project in action I've deployed it on heroku
 6. Bootstrap-v4
 7. Love
 
-### Installing/ Things you need to install the Web App and how to set up the project locally?
+### Installing:- Things you need to install the Web App and how to set up the project locally
 
 1. Python3
 2. Pip
@@ -30,7 +30,6 @@ To check out this project in action I've deployed it on heroku
 #### Steps
 - Make a virtual environment using "conda create -n envname python=3.6 pip"
 - source activate envname (for mac/linux) | activate envname (for windows)
-- Download or clone this repo by [git clone https://github.com/aditya98ak/spam-ham-web-app.git](https://github.com/aditya98ak/spam-ham-web-app.git)
 - pip install -r requirements.txt
 - Run the app using python manage.py runserver
 
@@ -39,6 +38,9 @@ To check out this project in action I've deployed it on heroku
 - Collect the result reported by user for false classification of messages/email
 - Model will self-learn from the reported data
 
-Made with :heart: by
-**Aditya Kaushik**  - [linkedin.com/adityakaushik001](https://www.linkedin.com/in/adityakaushik01/)
+Developed By:-
+**Prabhash Shukla**  - [linkedin.com/prabhash-shukla-a35510141](https://www.linkedin.com/in/prabhash-shukla-a35510141/)
+**Abhinav Singh**  - [linkedin.com/rathoreabhi007](https://www.linkedin.com/in/rathoreabhi007/)
+**Rahul Kumar**  - [linkedin.com/rahulk200398](https://www.linkedin.com/in/rahulk200398/)
+**Rishabh Srivastava**  - [linkedin.com/rishabh-srivastava-4704a8157](https://www.linkedin.com/in/rishabh-srivastava-4704a8157/)
 

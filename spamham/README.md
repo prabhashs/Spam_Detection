@@ -37,7 +37,7 @@ To check out this project in action I've deployed it on heroku
 - Collect the result reported by user for false classification of messages/email
 - Model will self-learn from the reported data
 
-Developed By:-
+Developed By:-  <br />
 **Prabhash Shukla**  - [linkedin.com/prabhash-shukla-a35510141](https://www.linkedin.com/in/prabhash-shukla-a35510141/)  <br />
 **Abhinav Singh**  - [linkedin.com/rathoreabhi007](https://www.linkedin.com/in/rathoreabhi007/)  <br />
 **Rahul Kumar**  - [linkedin.com/rahulk200398](https://www.linkedin.com/in/rahulk200398/)  <br />

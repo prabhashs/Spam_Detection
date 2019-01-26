@@ -18,13 +18,12 @@ To check out this project in action I've deployed it on heroku
 4. HTML5
 5. CSS
 6. Bootstrap-v4
-7. Love
 
 ### Installing:- Things you need to install the Web App and how to set up the project locally
 
 1. Python3
 2. Pip
-3. Django(2.1)
+3. Django
 4. Conda
 
 #### Steps
@@ -39,8 +38,8 @@ To check out this project in action I've deployed it on heroku
 - Model will self-learn from the reported data
 
 Developed By:-
-**Prabhash Shukla**  - [linkedin.com/prabhash-shukla-a35510141](https://www.linkedin.com/in/prabhash-shukla-a35510141/)
-**Abhinav Singh**  - [linkedin.com/rathoreabhi007](https://www.linkedin.com/in/rathoreabhi007/)
-**Rahul Kumar**  - [linkedin.com/rahulk200398](https://www.linkedin.com/in/rahulk200398/)
-**Rishabh Srivastava**  - [linkedin.com/rishabh-srivastava-4704a8157](https://www.linkedin.com/in/rishabh-srivastava-4704a8157/)
+**Prabhash Shukla**  - [linkedin.com/prabhash-shukla-a35510141](https://www.linkedin.com/in/prabhash-shukla-a35510141/)  <br />
+**Abhinav Singh**  - [linkedin.com/rathoreabhi007](https://www.linkedin.com/in/rathoreabhi007/)  <br />
+**Rahul Kumar**  - [linkedin.com/rahulk200398](https://www.linkedin.com/in/rahulk200398/)  <br />
+**Rishabh Srivastava**  - [linkedin.com/rishabh-srivastava-4704a8157](https://www.linkedin.com/in/rishabh-srivastava-4704a8157/)  <br />
 

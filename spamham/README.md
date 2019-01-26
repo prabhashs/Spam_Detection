@@ -1,6 +1,5 @@
 # Spam Detection
 Spam Detection is a text-classifier app which detects whether the message/email is spam or not. I've used Naive-Bayes along with NLP (TF-IDF, Bag of Words and more). <br>
-In order to perform an experiment I've combined two datasets (Enron email spam/ham and SMS spam classification) into one to gather more data. [See this notebook](https://github.com/prabhashs/Spam_Detection/blob/master/machine_learning_section/SpamHam.ipynb) to get what I am saying.
 <br>
 To check out this project in action I've deployed it on heroku
 [Click on this link to check](https://spamham.herokuapp.com)
